@@ -1,7 +1,3 @@
-# Latex
-test
+# learning
 
-nothing
-
-heehe
-ddd
+This respository is just built for learning something.
